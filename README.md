@@ -1,2 +1,2 @@
 # trial
-First setps with GitHub
+First steps with GitHub
